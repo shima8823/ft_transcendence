@@ -6,6 +6,13 @@
 ```
 git clone https://github.com/shima8823/ft_transcendence.git
 cd ft_transcendence
+```
+
+Set environment variables in .env file
+
+and
+
+```
 make init
 make
 ```
